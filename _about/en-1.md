@@ -2,4 +2,6 @@
 language: en
 title: About us
 ---
-aoeu
+![skyline](/media/skyline.jpg "Skyline")
+
+Un post
